@@ -46,3 +46,4 @@ For production
 - Add Code-splitting
 - Add store managment
 - Add Moment.js to get conversation post time
+- Refactor css into a mobile-first approach
