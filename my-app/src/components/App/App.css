@@ -1,0 +1,10 @@
+@import './../../common_styles/reset.css';
+
+* {
+  box-sizing: border-box;
+}
+.container {
+  max-width: 118rem;
+  margin: auto;
+  padding: 0 1rem;
+}
