@@ -1,4 +1,4 @@
-# React test app
+# React demo app
 
 ## Get Started
 
@@ -10,7 +10,7 @@ For development
 
 1. Run `yarn start` in one terminal
 2. Open http://localhost:3000 in a browser
-3. Run `yarn start` in one terminal for running server (server port: 9876)
+3. Run `yarn start` in one terminal for running server
 
 For production
 
